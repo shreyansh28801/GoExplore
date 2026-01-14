@@ -11,7 +11,7 @@ func main() {
 	// switch i {
 	// case 1:
 	// 	fmt.Println("Its One")
-	// 	//break -> here we don't need to write break, jsut like other langs
+	// 	//break -> here we don't need break, jsut like other langs
 	// case 2:
 	// 	fmt.Println("its two")
 	// default:

@@ -1,0 +1,15 @@
+gRPC Coffee Shop – Quick Guide
+==============================
+
+1. Generate gRPC code:
+   make proto
+
+2. Run server (keep running):
+   go run server/main.go
+
+3. Run client:
+   go run client/main.go
+
+Notes:
+- Run `make proto` after changing proto files.
+- Server must run before client.
